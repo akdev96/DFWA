@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg91692" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 300"
+	 style="enable-background:new 0 0 1024 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_3_);}
+	.st1{fill:#F4F4F4;}
+	.st2{fill:#A5A5A5;}
+	.st3{clip-path:url(#SVGID_7_);}
+</style>
+<g>
+	<defs>
+		<polygon id="SVGID_1_" points="1,-233 2,-233 1,-232 		"/>
+	</defs>
+	<defs>
+		<polygon id="SVGID_2_" points="-1,-235 -2,-235 -1,-236 		"/>
+	</defs>
+	<clipPath id="SVGID_3_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<clipPath id="SVGID_4_" class="st0">
+		<use xlink:href="#SVGID_2_"  style="overflow:visible;"/>
+	</clipPath>
+</g>
+<g id="slogan" transform="translate(0 0)">
+</g>
+<g id="title" transform="translate(0 0)">
+	<g id="path91701" transform="translate(0 346.6) translate(215.51281250000005 -25.6) scale(2.5) translate(-403.13375 50.4)">
+		<path class="st1" d="M362.6-159.6c24.5,0,40.9,16.4,40.9,40.8c0,24-17.1,40.8-41.6,40.8h-32v-81.6h32.9H362.6z M363.2-93.2
+			c12.8,0,21.8-10.5,21.8-25.5c0-15.1-9.3-25.7-22.7-25.7H348v51.1h15L363.2-93.2z"/>
+	</g>
+	<g id="path91703" transform="translate(0 346.6) translate(361.07501249999996 -25.6) scale(2.5) translate(-456.35863 50.4)">
+		<path class="st1" d="M475.6-159.6v14.9h-38.2V-78H419v-81.6H475.6z M450.7-123.7h21.8v14.9h-23.9L450.7-123.7z"/>
+	</g>
+	<g id="path91705" transform="translate(0 346.6) translate(472.5553125 -25.6) scale(2.5) translate(-495.95075 50.4)">
+		<polygon class="st1" points="555.6,-159.6 577,-78 561.5,-78 546.2,-138.1 530.7,-78 511.4,-78 486.2,-159.6 505.7,-159.6 
+			521.7,-99.1 537.3,-159.6 		"/>
+		<path class="st2" d="M585.1-92.2c-11.2-6.8-10.8-16.5-10.8-17l13.2-50.3H606L585.1-92.2z"/>
+	</g>
+	<g id="path91707" transform="translate(0 346.6) translate(677.4471875 -25.6) scale(2.5) translate(-572.9075 50.4)">
+		<polygon class="st1" points="666.2,-159.6 646.9,-159.6 613.8,-78 632.5,-78 643.4,-107.7 643.4,-107.7 656,-140.2 679.2,-78 
+			698.6,-78 		"/>
+	</g>
+</g>
+<g>
+	<defs>
+		<polygon id="SVGID_5_" points="1,-233 2,-233 1,-232 		"/>
+	</defs>
+	<defs>
+		<polygon id="SVGID_6_" points="-1,-235 -2,-235 -1,-236 		"/>
+	</defs>
+	<clipPath id="SVGID_7_">
+		<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+	</clipPath>
+	<clipPath id="SVGID_8_" class="st3">
+		<use xlink:href="#SVGID_6_"  style="overflow:visible;"/>
+	</clipPath>
+</g>
+</svg>

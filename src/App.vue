@@ -1,8 +1,13 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+// import HelloWorld from './components/HelloWorld.vue'
+import NavBar from './components/NavBar.vue';
 </script>
 
 <template>
+  <NavBar/>
+  <!-- <h1 class="text-3xl font-bold underline">
+    Hello world!
+  </h1>
   <div>
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
@@ -10,9 +15,11 @@ import HelloWorld from './components/HelloWorld.vue'
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
-  </div>
-  <HelloWorld msg="Vite + Vue" />
+  </div> -->
+  <!-- <HelloWorld msg="Vite + Vue" /> -->
+  
 </template>
+
 
 <style scoped>
 .logo {
